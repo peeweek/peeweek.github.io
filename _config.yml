@@ -1,18 +1,18 @@
-title:            VFX and Code
-description:      Random thoughts about Real-Time visual effects and Game Code.
+title:            A bunch of stuff
+description:      Random thoughts about Real-Time visual effects, Game dev, and tech in general.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: https://peeweek.github.io
 
 # Owner/author information
 owner:
   name:           Thomas Iché
   avatar:         avatar.jpg
   bio:            "Making Visual Effects in Games since 2008. I can write code and make art."
-  email:          thomas@peeweek.net
+  email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        peeweekVFX
   facebook:       
